@@ -137,6 +137,11 @@ h6 {
   cursor: pointer;
 }
 
+.btn-menu-icon {
+  display: block;
+  fill: #2f2f37;
+}
+
 @media screen and (min-width: 768px) {
   .btn-menu {
     display: none;
@@ -232,11 +237,6 @@ h6 {
     letter-spacing: 0.02em;
     padding: 24px 0;
   }
-}
-
-.btn-menu-icon {
-  display: block;
-  fill: #2f2f37;
 }
 
 /*#region mibile menu*/
